@@ -1,30 +1,40 @@
 ---
 title: "2D Gaussian Splatting for Geometrically Accurate Radiance Fields"
 short_name: ""
-authors: []
-year:
-venue: ""
-url: "https://arxiv.org/pdf/2403.17888"
-doi: ""
-arxiv: ""
-code_url: ""
+authors:
+  - "Binbin Huang"
+  - "Zehao Yu"
+  - "Anpei Chen"
+  - "Andreas Geiger"
+  - "Shenghua Gao"
+year: 2024
+venue: "SIGGRAPH 2024 Conference Papers"
+url: "https://arxiv.org/abs/2403.17888"
+doi: "10.1145/3641519.3657428"
+arxiv: "2403.17888"
+code_url: "https://github.com/hbb1/2d-gaussian-splatting"
 topics: 
   - "3d-vision"
-paper_type: ""
-task: ""
+paper_type: "method"
+task: "radiance-field-reconstruction"
 tags:
   - literature
-status: unread
-summary_level: none
-source_level: none
+status: skimmed
+summary_level: abstract
+source_level: abstract
 priority: medium
-read_date:
+read_date: "2026-05-31"
 review_date:
-related_projects: []
+related_projects:
+  - "https://surfsplatting.github.io/"
+  - "https://github.com/hbb1/2d-gaussian-splatting"
 pdf_path: ""
-retrieved_from: []
-retrieval_date: 
-read_version: ""
+retrieved_from:
+  - "https://arxiv.org/abs/2403.17888"
+  - "https://surfsplatting.github.io/"
+  - "https://github.com/hbb1/2d-gaussian-splatting"
+retrieval_date: "2026-05-31"
+read_version: "arXiv abstract metadata and official project page; PDF download not completed in current environment"
 ---
 
 
@@ -33,17 +43,20 @@ read_version: ""
 ## 基本信息
 
 - 简称：
-- 作者：
-- 发表时间：
-- 会议或期刊：
-- 原文链接：https://arxiv.org/pdf/2403.17888
-- 代码仓库：
+- 作者：Binbin Huang; Zehao Yu; Anpei Chen; Andreas Geiger; Shenghua Gao
+- 发表时间：2024
+- 会议或期刊：SIGGRAPH 2024 Conference Papers
+- 原文链接：https://arxiv.org/abs/2403.17888
+- arXiv：2403.17888
+- DOI：10.1145/3641519.3657428
+- 代码仓库：https://github.com/hbb1/2d-gaussian-splatting
+- 本地 PDF 路径：未获得
 - 所属方向：3d-vision
-- 当前状态：unread
+- 当前状态：skimmed
 
 ## 一句话概括
 
-> 尚未总结。
+2DGS 针对 3D Gaussian Splatting 在表面几何表达上多视角不一致的问题，将体积高斯替换为一组有方向的 2D 平面高斯盘。根据摘要，方法通过透视校正的 ray-splat intersection、rasterization、深度 distortion 与 normal consistency 约束来提升几何重建质量，同时保持较快训练和实时渲染能力。
 
 ## 研究问题
 
@@ -86,13 +99,13 @@ read_version: ""
 
 ## 待确认问题
 
-- [ ] 
+- [ ] 本批次仅成功获取 arXiv 摘要元数据与官方项目页；官方 PDF 多次下载过慢并被中止，未获得可读本地全文，后续需重新下载 PDF 后再写完整总结。
 
 ## 阅读记录
 
 ### 摘要总结
 
-> 尚未总结。
+论文指出 3DGS 虽然能实现高质量新视角合成和快速渲染，但 3D Gaussians 的多视角不一致会限制表面几何准确性。2DGS 的核心思路是用 2D oriented planar Gaussian disks 内在地表示表面，并用透视校正 splatting、深度 distortion 与法线一致性约束改善薄结构和几何恢复。当前只读到摘要与项目页，因此不记录实验数值、公式细节或完整方法推导。
 
 ### 粗读记录
 

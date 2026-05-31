@@ -12,7 +12,7 @@
 | [[Papers/PixelSynth\|PixelSynth]] | `unread` | `none` | `medium` |  |
 | [[Papers/GVSNet\|GVSNet]] | `unread` | `none` | `medium` |  |
 | [[Papers/Infinite Nature\|Infinite Nature]] | `unread` | `none` | `medium` |  |
-| [[Papers/3D Cinemagraphy\|3D Cinemagraphy]] | `unread` | `none` | `medium` |  |
+| [[Papers/3D Cinemagraphy\|3D Cinemagraphy]] | `skimmed` | `abstract` | `medium` | Batch 003 摘要级整理；PDF 下载待重试。 |
 | [[Papers/Text2Room\|Text2Room]] | `unread` | `none` | `medium` |  |
 | [[Papers/Text2NeRF\|Text2NeRF]] | `unread` | `none` | `medium` |  |
 | [[Papers/WonderJourney\|WonderJourney]] | `unread` | `none` | `medium` |  |

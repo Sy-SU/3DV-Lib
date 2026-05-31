@@ -7,12 +7,12 @@
 | [[Papers/CAST\|CAST]] | `unread` | `none` | `medium` |  |
 | [[Papers/MIDI\|MIDI]] | `unread` | `none` | `medium` |  |
 | [[Papers/PhysX-Anything\|PhysX-Anything]] | `unread` | `none` | `medium` |  |
-| [[Papers/3D Scene Generation\|3D Scene Generation]] | `unread` | `none` | `medium` |  |
+| [[Papers/3D Scene Generation\|3D Scene Generation]] | `skimmed` | `abstract` | `medium` | Batch 003 摘要级整理；PDF 下载待重试。 |
 | [[Papers/Infinigen\|Infinigen]] | `unread` | `none` | `medium` |  |
 | [[Papers/ProcTHOR\|ProcTHOR]] | `unread` | `none` | `medium` |  |
 | [[Papers/Infinigen Indoors\|Infinigen Indoors]] | `unread` | `none` | `medium` |  |
 | [[Papers/LayoutGPT\|LayoutGPT]] | `unread` | `none` | `medium` |  |
-| [[Papers/3D-GPT\|3D-GPT]] | `unread` | `none` | `medium` |  |
+| [[Papers/3D-GPT\|3D-GPT]] | `skimmed` | `abstract` | `medium` | Batch 003 摘要级整理；PDF 下载待重试。 |
 | [[Papers/SceneX\|SceneX]] | `unread` | `none` | `medium` |  |
 | [[Papers/ATISS\|ATISS]] | `unread` | `none` | `medium` |  |
 | [[Papers/MIME\|MIME]] | `unread` | `none` | `medium` |  |
@@ -40,7 +40,7 @@
 | [[Papers/PixelSynth\|PixelSynth]] | `unread` | `none` | `medium` |  |
 | [[Papers/GVSNet\|GVSNet]] | `unread` | `none` | `medium` |  |
 | [[Papers/Infinite Nature\|Infinite Nature]] | `unread` | `none` | `medium` |  |
-| [[Papers/3D Cinemagraphy\|3D Cinemagraphy]] | `unread` | `none` | `medium` |  |
+| [[Papers/3D Cinemagraphy\|3D Cinemagraphy]] | `skimmed` | `abstract` | `medium` | Batch 003 摘要级整理；PDF 下载待重试。 |
 | [[Papers/Text2Room\|Text2Room]] | `unread` | `none` | `medium` |  |
 | [[Papers/Text2NeRF\|Text2NeRF]] | `unread` | `none` | `medium` |  |
 | [[Papers/WonderJourney\|WonderJourney]] | `unread` | `none` | `medium` |  |

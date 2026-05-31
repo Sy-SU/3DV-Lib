@@ -268,3 +268,96 @@ Literature/Papers/*.md
 - After each batch, update paper YAML Properties.
 - Append a plain-text paper name to `Retrieval Log.md`.
 - Do not create new management-type high-degree graph nodes.
+
+## GitHub CLI Sandbox-Aware Workflow
+
+### Repository boundary
+
+- The repository root is:
+
+```text
+/Users/susenyang/Documents/Obsidian Vault/3DV-Lib
+```
+
+- Never run Git commands in the parent Obsidian Vault.
+- Never modify files outside this repository.
+
+### GitHub CLI authentication and sandbox behavior
+
+- Default-sandbox failures must not be interpreted immediately as GitHub logout.
+- For GitHub CLI and remote Git commands, request the necessary network and credential-reading permissions when needed.
+- Commands that may require elevated permissions include:
+
+```bash
+gh auth status --hostname github.com
+gh api user --jq '.login'
+gh repo view "Sy-SU/3DV-Lib" --json nameWithOwner,defaultBranchRef
+git fetch origin main
+git pull --ff-only origin main
+git ls-remote --heads origin "<branch>"
+git push -u origin "<branch>"
+gh pr create ...
+gh pr view ...
+```
+
+- If the default sandbox reports token-unreadable, DNS failure, inability to reach `api.github.com`, or credential-store access failure, request elevated permissions and retry.
+- Only report a GitHub CLI login failure if the elevated retry also fails.
+- Do not ask the user to run `gh auth login` based only on a default-sandbox failure.
+- Never run or print:
+
+```bash
+gh auth token
+```
+
+- Never print, store, or commit credentials, tokens, passwords, cookies, or SSH private keys.
+
+### Batch branches
+
+- Process each literature batch on a new branch created from the latest `origin/main`.
+- Use branch names such as:
+
+```text
+codex/literature-batch-004
+```
+
+- If a branch name already exists, use an incrementing suffix.
+- Never push literature-processing changes directly to `main`.
+
+### Commit policy
+
+- Create exactly one commit per literature batch.
+- Use commit messages such as:
+
+```text
+literature(batch-004): summarize next papers
+```
+
+- Do not amend commits.
+- Do not rewrite Git history.
+- Do not use force push.
+
+### Pull Request policy
+
+- Push the batch branch to `origin`.
+- Create a Pull Request targeting `main`.
+- Do not merge the Pull Request automatically.
+- Do not delete the remote branch automatically.
+- Report the PR URL after creation.
+
+### Local-only files
+
+- Never stage, commit, or push:
+
+```text
+Literature/PDFs/
+Literature/Workflow/Backups/
+```
+
+- `.obsidian/` is included in Git synchronization.
+- Check `.obsidian/` for suspicious credential-like files before committing.
+
+### Graph hygiene
+
+- In `Literature/Workflow/Retrieval Log.md`, write paper names as plain text.
+- Do not add paper Wikilinks to `Retrieval Log.md`.
+- Do not add bulk `[[Papers/...]]` links to management Markdown files.

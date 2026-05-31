@@ -8,7 +8,7 @@
 | [[Papers/ProcTHOR\|ProcTHOR]] | `unread` | `none` | `medium` |  |
 | [[Papers/Infinigen Indoors\|Infinigen Indoors]] | `unread` | `none` | `medium` |  |
 | [[Papers/LayoutGPT\|LayoutGPT]] | `unread` | `none` | `medium` |  |
-| [[Papers/3D-GPT\|3D-GPT]] | `unread` | `none` | `medium` |  |
+| [[Papers/3D-GPT\|3D-GPT]] | `skimmed` | `abstract` | `medium` | Batch 003 摘要级整理；PDF 下载待重试。 |
 | [[Papers/SceneX\|SceneX]] | `unread` | `none` | `medium` |  |
 
 ## 阅读顺序
