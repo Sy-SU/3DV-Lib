@@ -1,0 +1,18 @@
+# Local PDF files
+Literature/PDFs/
+
+# Local workflow backups
+Literature/Workflow/Backups/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Obsidian trash
+.trash/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~

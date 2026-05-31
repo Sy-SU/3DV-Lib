@@ -1,0 +1,78 @@
+filters:
+  and:
+    - 'file.inFolder("Literature/Papers")'
+views:
+  - type: table
+    name: 全部文献
+    order:
+      - file.name
+      - title
+      - short_name
+      - year
+      - venue
+      - status
+      - summary_level
+      - source_level
+      - priority
+      - topics
+    sort:
+      - property: priority
+        direction: ASC
+      - property: status
+        direction: ASC
+      - property: year
+        direction: DESC
+  - type: table
+    name: 尚未完成
+    filters:
+      and:
+        - 'summary_level != "full"'
+    order:
+      - file.name
+      - title
+      - status
+      - summary_level
+      - source_level
+      - priority
+      - topics
+  - type: table
+    name: 需要复查
+    filters:
+      and:
+        - 'status == "needs-review"'
+    order:
+      - file.name
+      - title
+      - status
+      - summary_level
+      - source_level
+      - priority
+      - topics
+  - type: table
+    name: 已完成
+    filters:
+      and:
+        - 'summary_level == "full"'
+    order:
+      - file.name
+      - title
+      - year
+      - venue
+      - status
+      - summary_level
+      - source_level
+      - priority
+      - topics
+  - type: table
+    name: 高优先级
+    filters:
+      and:
+        - 'priority == "high"'
+    order:
+      - file.name
+      - title
+      - status
+      - summary_level
+      - source_level
+      - priority
+      - topics

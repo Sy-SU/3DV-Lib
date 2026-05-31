@@ -1,0 +1,114 @@
+---
+title: "CC3D: Layout-Conditioned Generation of Compositional 3D Scenes"
+short_name: "CC3D"
+authors: []
+year:
+venue: ""
+url: "https://arxiv.org/abs/2303.12074"
+doi: ""
+arxiv: ""
+code_url: ""
+topics: 
+  - "3d-scene-generation"
+  - "neural-3d-based-generation"
+paper_type: ""
+task: "scene-generation"
+tags:
+  - literature
+status: unread
+summary_level: none
+source_level: none
+priority: medium
+read_date:
+review_date:
+related_projects: []
+pdf_path: ""
+retrieved_from: []
+retrieval_date: 
+read_version: ""
+---
+
+
+# CC3D: Layout-Conditioned Generation of Compositional 3D Scenes
+
+## 基本信息
+
+- 简称：CC3D
+- 作者：
+- 发表时间：
+- 会议或期刊：
+- 原文链接：https://arxiv.org/abs/2303.12074
+- 代码仓库：
+- 所属方向：3d-scene-generation, neural-3d-based-generation
+- 当前状态：unread
+
+## 一句话概括
+
+> 尚未总结。
+
+## 研究问题
+
+> 尚未总结。
+
+## 方法概述
+
+> 尚未总结。
+
+## 关键公式
+
+> 尚未总结。
+
+## 实验设置
+
+> 尚未总结。
+
+## 主要结果
+
+> 尚未总结。
+
+## 论文贡献
+
+> 尚未总结。
+
+## 局限性
+
+> 尚未总结。
+
+## 与其他论文的关系
+
+- 前置工作：
+- 后续工作：
+- 相似方法：
+- 主要区别：
+
+## 与当前研究方向的关系
+
+> 尚未总结。
+
+## 待确认问题
+
+- [ ] 
+
+## 阅读记录
+
+### 摘要总结
+
+> 尚未总结。
+
+### 粗读记录
+
+> 尚未总结。
+
+### 完整总结
+
+> 尚未总结。
+
+## 用户原始备注
+
+> 暂无。
+
+## 引用信息
+
+```bibtex
+
+```

@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "51255758b20d3e20",
+    "type": "split",
+    "children": [
+      {
+        "id": "afcb7f5f93150c61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ffbd405dd1d364",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95aea28524b44827",
+    "type": "split",
+    "children": [
+      {
+        "id": "004742a293052cf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9bc4ca1c34df29c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "05b2ee63cd3b254b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "11f0151ff8378908",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6722ce9ee81a26e",
+    "type": "split",
+    "children": [
+      {
+        "id": "18195dc3f40fa831",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "564b0e7eccb53ea5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "ee6ab58c564807fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "49a8011d1de5b2c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a80fd9d3b6fff104",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a4d28570b606a39c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "87ffbd405dd1d364",
+  "lastOpenFiles": [
+    "Literature/Literature Index.md",
+    "Literature/Workflow/Retrieval Log.md",
+    "Literature/Workflow/Path and Graph Hygiene Audit.md",
+    "Literature/Workflow/Audit Report.md",
+    "Literature/Papers/LDM.md",
+    "Literature/Papers/MotionGPT.md",
+    "Literature/Papers/MeshGPT.md",
+    "Literature/Papers/DDIM.md",
+    "Literature/Papers/DDPM.md",
+    "Literature/Papers/DiT.md",
+    "Literature/Papers/DreamBooth.md",
+    "Literature/PDFs/Null-text Inversion for Editing Real Images using Guided Diffusion Models.pdf",
+    "阅读论文 Prompt.md",
+    "Literature/PDFs/NeRF.pdf",
+    "Literature/PDFs/MotionGPT.pdf",
+    "Literature/PDFs/MDM.pdf",
+    "Literature/PDFs/LDM.pdf",
+    "Literature/Workflow/Backup Graph Cleanup Report.md",
+    "Literature/Workflow/Backups/Retrieval Queue.before-base-migration.md.bak",
+    "Literature/Workflow/Backups/Literature Index.before-base-migration.md.bak",
+    "Literature/Workflow/Backups/Retrieval Queue.before-base-migration.md",
+    "Literature/Workflow/Backups/Literature Index.before-base-migration.md",
+    "Literature/Workflow/Graph Hygiene Migration Report.md",
+    "Literature/Workflow/Retrieval Queue.base",
+    "Literature/Literature Dashboard.base",
+    "Literature/Workflow/Backups",
+    "Literature/Workflow/Math Rendering Audit.md",
+    "Literature/Workflow/Batch 001 Report.md",
+    "Literature/README.md",
+    "Literature/Topics/3D Scene Generation.md",
+    "AGENTS.md",
+    "文献列表.md",
+    "Literature/Workflow/Retrieval Queue.md",
+    "Literature/Papers/CLAY.md",
+    "Literature/Templates/Paper Template.md",
+    "Literature/Topics/Neural 3D-based Scene Generation.md"
+  ]
+}

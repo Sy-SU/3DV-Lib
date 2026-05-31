@@ -1,0 +1,27 @@
+filters:
+  and:
+    - 'file.inFolder("Literature/Papers")'
+    - 'summary_level != "full"'
+views:
+  - type: table
+    name: 待检索队列
+    order:
+      - file.name
+      - title
+      - short_name
+      - status
+      - summary_level
+      - source_level
+      - priority
+      - topics
+      - url
+      - arxiv
+      - pdf_path
+      - retrieval_date
+    sort:
+      - property: priority
+        direction: ASC
+      - property: status
+        direction: ASC
+      - property: file.name
+        direction: ASC
