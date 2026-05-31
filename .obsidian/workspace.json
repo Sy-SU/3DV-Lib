@@ -11,10 +11,14 @@
             "id": "87ffbd405dd1d364",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "阅读论文 Prompt.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "阅读论文 Prompt"
             }
           }
         ]
