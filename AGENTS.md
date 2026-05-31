@@ -311,6 +311,14 @@ gh auth token
 
 - Never print, store, or commit credentials, tokens, passwords, cookies, or SSH private keys.
 
+### Local PDF priority
+
+- Before any literature web search or download, scan `Literature/PDFs/` for existing local PDFs that may match the selected batch by stable filename, title, URL, DOI, arXiv ID, and extracted first-page text.
+- Reuse a readable matching local PDF before accessing the network.
+- If a local PDF is unreadable, incomplete, duplicated, or ambiguous, do not treat it as full text; record the ambiguity in `Literature/unresolved.md`.
+- Delete only failed or partial PDF downloads created during the current batch, and never delete pre-existing user PDFs without explicit approval.
+- Keep local PDF paths repository-relative in paper YAML, for example `Literature/PDFs/<stable-filename>.pdf`.
+
 ### Batch branches
 
 - Process each literature batch on a new branch created from the latest `origin/main`.

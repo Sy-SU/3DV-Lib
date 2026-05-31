@@ -32,9 +32,10 @@ pdf_path: ""
 retrieved_from:
   - "https://arxiv.org/abs/2403.17888"
   - "https://surfsplatting.github.io/"
+  - "https://www.cvlibs.net/publications/Huang2024SIGGRAPH.pdf"
   - "https://github.com/hbb1/2d-gaussian-splatting"
 retrieval_date: "2026-05-31"
-read_version: "arXiv abstract metadata and official project page; PDF download not completed in current environment"
+read_version: "arXiv abstract metadata and official project page; CVLIBS PDF timed out in Batch 004, no readable local PDF"
 ---
 
 
@@ -99,7 +100,7 @@ read_version: "arXiv abstract metadata and official project page; PDF download n
 
 ## 待确认问题
 
-- [ ] 本批次仅成功获取 arXiv 摘要元数据与官方项目页；官方 PDF 多次下载过慢并被中止，未获得可读本地全文，后续需重新下载 PDF 后再写完整总结。
+- [ ] Batch 003/004 仅成功获取 arXiv 摘要元数据与官方项目页；官方/CVLIBS PDF 多次下载过慢或超时，未获得可读本地全文，后续需重新下载 PDF 后再写完整总结。
 
 ## 阅读记录
 
