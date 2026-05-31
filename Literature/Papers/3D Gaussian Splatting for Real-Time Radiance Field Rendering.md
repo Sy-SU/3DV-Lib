@@ -31,9 +31,10 @@ pdf_path: ""
 retrieved_from:
   - "https://arxiv.org/abs/2308.04079"
   - "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/"
+  - "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf"
   - "https://github.com/graphdeco-inria/gaussian-splatting"
 retrieval_date: "2026-05-31"
-read_version: "arXiv abstract metadata and official project page; PDF download not completed in current environment"
+read_version: "arXiv abstract metadata and official project page; INRIA low-resolution PDF timed out in Batch 004, no readable local PDF"
 ---
 
 
@@ -98,7 +99,7 @@ read_version: "arXiv abstract metadata and official project page; PDF download n
 
 ## 待确认问题
 
-- [ ] 本批次仅成功获取 arXiv 摘要元数据与官方项目页；官方 PDF 下载过慢并被中止，未获得可读本地全文，后续需重新下载 PDF 后再写完整总结。
+- [ ] Batch 003/004 仅成功获取 arXiv 摘要元数据与官方项目页；官方/INRIA PDF 下载过慢或超时，未获得可读本地全文，后续需重新下载 PDF 后再写完整总结。
 
 ## 阅读记录
 

@@ -33,10 +33,11 @@ related_projects:
 pdf_path: ""
 retrieved_from:
   - "https://arxiv.org/abs/2303.05724"
+  - "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_3D_Cinemagraphy_From_a_Single_Image_CVPR_2023_paper.pdf"
   - "https://xingyi-li.github.io/3d-cinemagraphy/"
   - "https://github.com/xingyi-li/3d-cinemagraphy"
 retrieval_date: "2026-05-31"
-read_version: "arXiv abstract metadata and official project page; PDF download not completed in current environment"
+read_version: "arXiv abstract metadata and official project page; CVF PDF timed out in Batch 004, no readable local PDF"
 ---
 
 
@@ -101,7 +102,7 @@ read_version: "arXiv abstract metadata and official project page; PDF download n
 
 ## 待确认问题
 
-- [ ] 本批次仅成功获取 arXiv 摘要元数据与官方项目页；CVF/项目 PDF 下载过慢并被中止，未获得可读本地全文，后续需重新下载 PDF 后再写完整总结。
+- [ ] Batch 003/004 仅成功获取 arXiv 摘要元数据与官方项目页；CVF/项目 PDF 下载过慢或超时，未获得可读本地全文，后续需重新下载 PDF 后再写完整总结。
 
 ## 阅读记录
 
