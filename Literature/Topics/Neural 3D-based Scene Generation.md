@@ -4,7 +4,7 @@
 
 | 论文 | 状态 | 总结级别 | 优先级 | 备注 |
 |---|---|---|---|---|
-| [[Papers/ATISS\|ATISS]] | `unread` | `none` | `medium` |  |
+| [[Papers/ATISS\|ATISS]] | `fully-summarized` | `full` | `medium` | Batch 006 已完成全文总结。 |
 | [[Papers/MIME\|MIME]] | `unread` | `none` | `medium` |  |
 | [[Papers/DiffuScene\|DiffuScene]] | `unread` | `none` | `medium` |  |
 | [[Papers/Graph-to-3D\|Graph-to-3D]] | `unread` | `none` | `medium` |  |
@@ -16,7 +16,7 @@
 | [[Papers/SceneDreamer\|SceneDreamer]] | `unread` | `none` | `medium` |  |
 | [[Papers/CityDreamer\|CityDreamer]] | `unread` | `none` | `medium` |  |
 | [[Papers/Comp3D\|Comp3D]] | `unread` | `none` | `medium` |  |
-| [[Papers/BlockFusion\|BlockFusion]] | `unread` | `none` | `medium` |  |
+| [[Papers/BlockFusion\|BlockFusion]] | `fully-summarized` | `full` | `medium` | Batch 006 已完成全文总结。 |
 | [[Papers/GSN\|GSN]] | `unread` | `none` | `medium` |  |
 | [[Papers/GAUDI\|GAUDI]] | `unread` | `none` | `medium` |  |
 | [[Papers/NeuralField-LDM\|NeuralField-LDM]] | `unread` | `none` | `medium` |  |

@@ -4,7 +4,7 @@
 
 | 论文 | 状态 | 总结级别 | 优先级 | 备注 |
 |---|---|---|---|---|
-| [[Papers/4Real\|4Real]] | `unread` | `none` | `medium` |  |
+| [[Papers/4Real\|4Real]] | `fully-summarized` | `full` | `medium` | Batch 006 已完成全文总结。 |
 | [[Papers/DimensionX\|DimensionX]] | `unread` | `none` | `medium` |  |
 | [[Papers/MagicDrive\|MagicDrive]] | `unread` | `none` | `medium` |  |
 | [[Papers/Vista\|Vista]] | `unread` | `none` | `medium` |  |

@@ -4,7 +4,7 @@
 
 | 论文 | 状态 | 总结级别 | 优先级 | 备注 |
 |---|---|---|---|---|
-| [[Papers/CAST\|CAST]] | `unread` | `none` | `medium` |  |
+| [[Papers/CAST\|CAST]] | `fully-summarized` | `full` | `medium` | Batch 006 已完成全文总结。 |
 | [[Papers/MIDI\|MIDI]] | `unread` | `none` | `medium` |  |
 | [[Papers/PhysX-Anything\|PhysX-Anything]] | `unread` | `none` | `medium` |  |
 | [[Papers/3D Scene Generation\|3D Scene Generation]] | `fully-summarized` | `full` | `medium` | Batch 004 已完成全文总结。 |
@@ -14,7 +14,7 @@
 | [[Papers/LayoutGPT\|LayoutGPT]] | `unread` | `none` | `medium` |  |
 | [[Papers/3D-GPT\|3D-GPT]] | `fully-summarized` | `full` | `medium` | Batch 004 已完成全文总结。 |
 | [[Papers/SceneX\|SceneX]] | `unread` | `none` | `medium` |  |
-| [[Papers/ATISS\|ATISS]] | `unread` | `none` | `medium` |  |
+| [[Papers/ATISS\|ATISS]] | `fully-summarized` | `full` | `medium` | Batch 006 已完成全文总结。 |
 | [[Papers/MIME\|MIME]] | `unread` | `none` | `medium` |  |
 | [[Papers/DiffuScene\|DiffuScene]] | `unread` | `none` | `medium` |  |
 | [[Papers/Graph-to-3D\|Graph-to-3D]] | `unread` | `none` | `medium` |  |
@@ -26,7 +26,7 @@
 | [[Papers/SceneDreamer\|SceneDreamer]] | `unread` | `none` | `medium` |  |
 | [[Papers/CityDreamer\|CityDreamer]] | `unread` | `none` | `medium` |  |
 | [[Papers/Comp3D\|Comp3D]] | `unread` | `none` | `medium` |  |
-| [[Papers/BlockFusion\|BlockFusion]] | `unread` | `none` | `medium` |  |
+| [[Papers/BlockFusion\|BlockFusion]] | `fully-summarized` | `full` | `medium` | Batch 006 已完成全文总结。 |
 | [[Papers/GSN\|GSN]] | `unread` | `none` | `medium` |  |
 | [[Papers/GAUDI\|GAUDI]] | `unread` | `none` | `medium` |  |
 | [[Papers/NeuralField-LDM\|NeuralField-LDM]] | `unread` | `none` | `medium` |  |
@@ -45,14 +45,14 @@
 | [[Papers/Text2NeRF\|Text2NeRF]] | `unread` | `none` | `medium` |  |
 | [[Papers/WonderJourney\|WonderJourney]] | `unread` | `none` | `medium` |  |
 | [[Papers/LucidDreamer\|LucidDreamer]] | `unread` | `none` | `medium` |  |
-| [[Papers/4Real\|4Real]] | `unread` | `none` | `medium` |  |
+| [[Papers/4Real\|4Real]] | `fully-summarized` | `full` | `medium` | Batch 006 已完成全文总结。 |
 | [[Papers/DimensionX\|DimensionX]] | `unread` | `none` | `medium` |  |
 | [[Papers/MagicDrive\|MagicDrive]] | `unread` | `none` | `medium` |  |
 | [[Papers/Vista\|Vista]] | `unread` | `none` | `medium` |  |
 | [[Papers/GenXD\|GenXD]] | `unread` | `none` | `medium` |  |
 | [[Papers/4K4DGen\|4K4DGen]] | `fully-summarized` | `full` | `medium` | Batch 005 已完成全文总结。 |
 | [[Papers/GameGen-X\|GameGen-X]] | `unread` | `none` | `medium` |  |
-| [[Papers/Articulate-Anything\|Articulate-Anything]] | `unread` | `none` | `medium` |  |
+| [[Papers/Articulate-Anything\|Articulate-Anything]] | `fully-summarized` | `full` | `medium` | Batch 006 已完成全文总结。 |
 | [[Papers/PhysDreamer\|PhysDreamer]] | `unread` | `none` | `medium` |  |
 | [[Papers/PhysID\|PhysID]] | `unread` | `none` | `medium` |  |
 | [[Papers/PhysGaussian\|PhysGaussian]] | `unread` | `none` | `medium` |  |

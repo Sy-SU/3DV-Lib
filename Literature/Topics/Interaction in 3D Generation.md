@@ -4,7 +4,7 @@
 
 | 论文 | 状态 | 总结级别 | 优先级 | 备注 |
 |---|---|---|---|---|
-| [[Papers/Articulate-Anything\|Articulate-Anything]] | `unread` | `none` | `medium` |  |
+| [[Papers/Articulate-Anything\|Articulate-Anything]] | `fully-summarized` | `full` | `medium` | Batch 006 已完成全文总结。 |
 | [[Papers/PhysDreamer\|PhysDreamer]] | `unread` | `none` | `medium` |  |
 | [[Papers/PhysID\|PhysID]] | `unread` | `none` | `medium` |  |
 | [[Papers/PhysGaussian\|PhysGaussian]] | `unread` | `none` | `medium` |  |
