@@ -185,6 +185,11 @@
   },
   "active": "87ffbd405dd1d364",
   "lastOpenFiles": [
+    "Literature/PDFs/3D Gaussian Splatting for Real-Time Radiance Field Rendering.pdf",
+    "Literature/PDFs/2D Gaussian Splatting for Geometrically Accurate Radiance Fields.pdf",
+    "Literature/PDFs/3D Scene Generation.pdf",
+    "Literature/PDFs/3D Cinemagraphy.pdf",
+    "Literature/PDFs/3D-GPT.pdf",
     "Literature/Literature Index.md",
     "Literature/Workflow/Retrieval Log.md",
     "Literature/Workflow/Path and Graph Hygiene Audit.md",
@@ -204,13 +209,9 @@
     "Literature/PDFs/LDM.pdf",
     "Literature/Workflow/Backup Graph Cleanup Report.md",
     "Literature/Workflow/Backups/Retrieval Queue.before-base-migration.md.bak",
-    "Literature/Workflow/Backups/Literature Index.before-base-migration.md.bak",
     "Literature/Workflow/Backups/Retrieval Queue.before-base-migration.md",
     "Literature/Workflow/Backups/Literature Index.before-base-migration.md",
     "Literature/Workflow/Graph Hygiene Migration Report.md",
-    "Literature/Workflow/Retrieval Queue.base",
-    "Literature/Literature Dashboard.base",
-    "Literature/Workflow/Backups",
     "Literature/Workflow/Math Rendering Audit.md",
     "Literature/Workflow/Batch 001 Report.md",
     "Literature/README.md",
@@ -219,7 +220,6 @@
     "文献列表.md",
     "Literature/Workflow/Retrieval Queue.md",
     "Literature/Papers/CLAY.md",
-    "Literature/Templates/Paper Template.md",
-    "Literature/Topics/Neural 3D-based Scene Generation.md"
+    "Literature/Templates/Paper Template.md"
   ]
 }
