@@ -2,6 +2,6 @@
 
 | 原始条目 | 问题 | 建议处理方式 |
 |---|---|---|
-| 2D Gaussian Splatting for Geometrically Accurate Radiance Fields | Batch 003/004 中成功获取 arXiv 摘要元数据和官方项目页，但官方/CVLIBS PDF 下载多次过慢、被中止或超时，未获得可读本地全文。Batch 004 产生的无效 PDF 残片已删除。 | 后续在网络更稳定时从 arXiv、官方项目页、CVLIBS 或 ACM DOI 页面重新下载 PDF，再补全文总结。 |
-| 3D Cinemagraphy from a Single Image | Batch 003/004 中成功获取 arXiv 摘要元数据和官方项目页，但项目 raw PDF 与 CVF OpenAccess PDF 下载失败或超时，未获得可读本地全文。Batch 004 产生的无效 PDF 残片已删除。 | 后续在网络更稳定时从 CVF OpenAccess、arXiv 或官方项目页重新下载 PDF，再补全文总结。 |
-| 3D Gaussian Splatting for Real-Time Radiance Field Rendering | Batch 003/004 中成功获取 arXiv 摘要元数据和官方项目页，但官方/INRIA PDF 下载过慢或超时，未获得可读本地全文。Batch 004 产生的无效 PDF 残片已删除。 | 后续在网络更稳定时从 arXiv 或 INRIA 项目页重新下载 PDF，再补全文总结。 |
+| 3D Gaussian Splatting for Real-Time Radiance Field Rendering | Batch 005 已获得可读 INRIA low-resolution author PDF，但 PDF front matter 中 DOI 仍为占位符。 | 后续从 ACM Digital Library 或正式出版页核对 DOI 与最终 bibliographic metadata。 |
+| A 3D Shape Representation for Neural Fields and Generative Diffusion Models | Batch 005 已阅读 arXiv v3 PDF，但 PDF 未确认正式发表 venue/DOI；项目/代码 URL 仅来自 PDF 内部标注。 | 后续如需正式引用或复现，核对项目页、代码仓库和最终发表信息。 |
+| 4K4DGen: Panoramic 4D Generation at 4K Resolution | Batch 005 已阅读 arXiv v3 PDF；论文声明未来会发布代码，本次未确认可用官方代码仓库或正式发表信息。 | 后续重新检查官方项目/代码发布状态，并核对正式 venue/DOI。 |

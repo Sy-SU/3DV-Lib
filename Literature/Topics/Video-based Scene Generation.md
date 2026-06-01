@@ -9,7 +9,7 @@
 | [[Papers/MagicDrive\|MagicDrive]] | `unread` | `none` | `medium` |  |
 | [[Papers/Vista\|Vista]] | `unread` | `none` | `medium` |  |
 | [[Papers/GenXD\|GenXD]] | `unread` | `none` | `medium` |  |
-| [[Papers/4K4DGen\|4K4DGen]] | `unread` | `none` | `medium` |  |
+| [[Papers/4K4DGen\|4K4DGen]] | `fully-summarized` | `full` | `medium` | Batch 005 已完成全文总结。 |
 | [[Papers/GameGen-X\|GameGen-X]] | `unread` | `none` | `medium` |  |
 
 ## 阅读顺序

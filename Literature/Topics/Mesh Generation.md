@@ -7,7 +7,7 @@
 | [[Papers/MeshGPT\|MeshGPT]] | `unread` | `none` | `medium` |  |
 | [[Papers/MeshAnything V2\|MeshAnything V2]] | `unread` | `none` | `medium` |  |
 | [[Papers/MeshXL\|MeshXL]] | `unread` | `none` | `medium` |  |
-| [[Papers/3DShape2VecSet\|3DShape2VecSet]] | `unread` | `none` | `medium` |  |
+| [[Papers/3DShape2VecSet\|3DShape2VecSet]] | `fully-summarized` | `full` | `medium` | Batch 005 已完成全文总结。 |
 | [[Papers/CLAY\|CLAY]] | `unread` | `none` | `medium` |  |
 
 ## 阅读顺序
